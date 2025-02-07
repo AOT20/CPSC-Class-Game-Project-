@@ -1,0 +1,1 @@
+For the game to load create a Python project and in the folder include the files from github and the songs and themes ( in a folder ) from this google drive: https://drive.google.com/drive/folders/1mQCMjNqbfgk_ld3I_g7agLDxGnQE7SyA?usp=sharing
